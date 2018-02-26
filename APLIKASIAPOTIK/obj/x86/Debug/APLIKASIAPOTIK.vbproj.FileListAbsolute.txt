@@ -1,0 +1,45 @@
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\bin\Debug\APLIKASIAPOTIK.exe
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\bin\Debug\APLIKASIAPOTIK.pdb
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\bin\Debug\APLIKASIAPOTIK.xml
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.home.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.inputstok.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.lihatpenjualan.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.lihatstok.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.transaksi.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\APLIKASIAPOTIK.exe
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\APLIKASIAPOTIK.xml
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\APLIKASIAPOTIK.pdb
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.lappenjualan.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.cariobat.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\Projects\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.form2.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\APLIKASIAPOTIK.exe
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\APLIKASIAPOTIK.xml
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\APLIKASIAPOTIK.pdb
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\bin\Debug\APLIKASIAPOTIK.exe
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\bin\Debug\APLIKASIAPOTIK.pdb
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\bin\Debug\APLIKASIAPOTIK.xml
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.cariobat.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.form2.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.home.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.inputstok.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.lappenjualan.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.lihatpenjualan.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.lihatstok.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\WindowsApplication1.transaksi.resources
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\T O S H I B A\Documents\Visual Studio 2010\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\000000000000000000000KULIAH-8gb\SEMESTER 4\VISUAL BASIC .NET -- Pak Mukhlis\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\APLIKASIAPOTIK.exe
+D:\000000000000000000000KULIAH-8gb\SEMESTER 4\VISUAL BASIC .NET -- Pak Mukhlis\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\APLIKASIAPOTIK.xml
+D:\000000000000000000000KULIAH-8gb\SEMESTER 4\VISUAL BASIC .NET -- Pak Mukhlis\APLIKASIAPOTIK - Copy\APLIKASIAPOTIK\obj\x86\Debug\APLIKASIAPOTIK.pdb
